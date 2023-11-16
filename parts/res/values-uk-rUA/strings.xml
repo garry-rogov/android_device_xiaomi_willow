@@ -22,6 +22,53 @@
     <string name="audio_title">Аудіо</string>
     <string name="display_title">Дисплей</string>
 
+    <!-- Dirac settings -->
+    <string name="dirac_title">Поліпшення звуку Mi</string>
+    <string name="dirac_summary">Поліпшення якості звуку</string>
+    <string name="dirac_headset_title">Тип навушників</string>
+    <string name="dirac_preset_title">Виберіть налаштування</string>
+
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">За замовчуванням</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Вкладиші</string>
+    <string name="dirac_headset_general_inear">Вакуумні</string>
+    <string name="dirac_headset_piston_basic">Mi Piston Basic</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Mi Piston Standard</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Mi Piston Youth</string>
+    <string name="dirac_headset_piston_color">Mi Piston Colorful</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear Pro</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro HD</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi ANC Type-C</string>
+    <string name="dirac_headset_cancelling">Mi ANC 3.5 мм</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">За замовчуванням</string>
+    <string name="dirac_preset_rock">Рок</string>
+    <string name="dirac_preset_jazz">Джаз</string>
+    <string name="dirac_preset_pop">Поп</string>
+    <string name="dirac_preset_classical">Классика</string>
+    <string name="dirac_preset_hiphop">Хіп-Хоп</string>
+    <string name="dirac_preset_blues">Блюз</string>
+    <string name="dirac_preset_electronic">Електронна</string>
+    <string name="dirac_preset_country">Кантрі</string>
+    <string name="dirac_preset_dance">Танцювальна</string>
+    <string name="dirac_preset_metal">Метал</string>
+    <string name="dirac_preset_bass_booster">Підсилювач басів</string>
+
+    <!-- QS tile title -->
+    <string name="dirac_qs_tile_title">Mi звук</string>
+
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Очищення динаміка</string>
     <string name="clear_speaker_summary">Відтворити 30-ти секундний звук для очищення динаміка</string>
