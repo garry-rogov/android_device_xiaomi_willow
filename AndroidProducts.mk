@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_willow.mk
+    $(LOCAL_DIR)/bliss_willow.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_willow-user \
-    lineage_willow-userdebug \
-    lineage_willow-eng
+    bliss_willow-user \
+    bliss_willow-userdebug \
+    bliss_willow-eng

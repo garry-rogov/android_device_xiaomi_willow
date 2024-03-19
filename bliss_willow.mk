@@ -27,10 +27,10 @@ $(call inherit-product, vendor/gapps/products/gapps.mk)
 $(call inherit-product, device/xiaomi/willow/device.mk)
 
 # Inherit some common LineageOS stuff
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
 # Device identifier
-PRODUCT_NAME := lineage_willow
+PRODUCT_NAME := bliss_willow
 PRODUCT_DEVICE := willow
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 8/8T
